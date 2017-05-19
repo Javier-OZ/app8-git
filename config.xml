@@ -34,11 +34,6 @@ Aplicación que abre 3 aplicaciones externas.
 	<!-- Third party plugins -->
 	
 	<!-- Para accesar a paginas en internet -->
-	<allow-intent href="https://*/*"/>
-	<acces origin="https://*/*"/>
-	<allow-intent href="http://*/*"/>
-	<acces origin="http://*/*"/>
-	<plugin name="cordova-plugin-whitelist" source="npm"/>
 	
 	<!-- Colocar icono app -->
 	
